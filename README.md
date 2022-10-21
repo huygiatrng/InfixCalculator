@@ -1,4 +1,4 @@
-# InfixCalculator!
+# InfixCalculator
 Infix Calculator GUI works with five simple operator (+,-,*,/,^) without in-built math methods from Math library.
 User can use brackets to manage the operation.
 
