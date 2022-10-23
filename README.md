@@ -5,3 +5,10 @@ Using my stacks implementation, this program takes an input operation of infix n
 
 ![image](https://user-images.githubusercontent.com/67343196/197295838-cd6f84ae-7927-44ad-b82a-742503636d6f.png)
 
+<h2>Installation</h2>
+<li>
+  Download project.
+  Compile GUI.java file in src folder.
+  Run .java file.
+</li>
+
