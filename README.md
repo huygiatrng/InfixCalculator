@@ -10,3 +10,10 @@ Using my stacks implementation, this program takes an input operation of infix n
 </li>
 <li>Compile and run <a href="https://github.com/huygiatrng/InfixCalculator/blob/main/src/GUI.java">GUI.java</a> file in <a href="https://github.com/huygiatrng/InfixCalculator/tree/main/src">src</a> folder.
 </li>
+
+
+<h2>Features</h2>
+<li>Support "^" operator.
+</li>
+<li>Support "(" and ")" brackets.
+</li>
