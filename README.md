@@ -17,3 +17,5 @@ Using my stacks implementation, this program takes an input operation of infix n
 </li>
 <li>Support "(" and ")" brackets.
 </li>
+<li>Save history of calculations.
+</li>
