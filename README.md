@@ -8,7 +8,7 @@ Using my stacks implementation, this program takes an input operation of infix n
 <h2>Installation</h2>
 <li>Download project.
 </li>
-<li>Compile GUI.java file in src folder.
+<li>Compile GUI.java file in <a href="https://github.com/huygiatrng/InfixCalculator/tree/main/src">src</a> folder.
 </li>
 <li>Run .java file.
 </li>
